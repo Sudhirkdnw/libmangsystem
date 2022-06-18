@@ -1,4 +1,4 @@
 # libmangsystem
 library management system
-# 12 class project
+# 12 school class project
 python django framework and mysql database
